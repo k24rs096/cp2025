@@ -1,5 +1,5 @@
 # cp2025
 
-Tis is README
+This is README
 - item1
 - item2
